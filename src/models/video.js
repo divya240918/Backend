@@ -1,5 +1,5 @@
 import mongoose from "mongoose";
-import mongooseAggregatePaginate from 
+import mongooseAggregatePaginate from "mongoose"
 
 const videoSchema = new mongoose.Schema({
     videoFile: {

@@ -1,3 +1,5 @@
+//Structures error response
+
 class ApiError extends Error {
     constructor(
         statusCode,
